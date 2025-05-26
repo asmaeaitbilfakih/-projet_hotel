@@ -23,23 +23,10 @@ Structure du projet
              insertBD.py : script d’initialisation ou d’insertion
              image.png : illustration ou logo de l’interface
 
-Lancer le projet
-Cloner ce dépôt :
 
-bash
-Copier
-Modifier
-git clone https://github.com/Houda-hub/interface-bdd.git
-cd interface-bdd
-Lancer l’interface :
-
-bash
-Copier
-Modifier
-streamlit run app.py
-👩‍💻 Réalisé par
+ Réalisé par
 ASMAE AIT BILFAKIH
-HOUDA BEDDACH
+
 Année universitaire : 2024/2025
 
 Filière : IAP S4
